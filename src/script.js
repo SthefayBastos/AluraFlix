@@ -1,3 +1,4 @@
+
 function adicionarFilme() {
   var filmeFavorito = document.getElementById("filme").value;
   if (filmeFavorito.endsWith(".jpg")) {
